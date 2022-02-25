@@ -1,8 +1,6 @@
 # Dockerizing Django with Postgres, Gunicorn, and Nginx
 
-## Want to learn how to build this?
 
-Check out the [post](https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx).
 
 ## Want to use this project?
 
@@ -10,7 +8,7 @@ Check out the [post](https://testdriven.io/dockerizing-django-with-postgres-guni
 
 Uses the default Django development server.
 
-1. Rename *.env.dev-sample* to *.env.dev*.
+
 1. Update the environment variables in the *docker-compose.yml* and *.env.dev* files.
 1. Build the images and run the containers:
 
@@ -24,7 +22,6 @@ Uses the default Django development server.
 
 Uses gunicorn + nginx.
 
-1. Rename *.env.prod-sample* to *.env.prod* and *.env.prod.db-sample* to *.env.prod.db*. Update the environment variables.
 1. Build the images and run the containers:
 
     ```sh
