@@ -1,7 +1,6 @@
 Django==4.0.2
 django-jalali==5.1.0
 django-mptt==0.13.4
-Pillow==9.0.1
 psycopg2-binary==2.9.3
 djangorestframework==3.13.1
 django-cors-headers==3.11.0

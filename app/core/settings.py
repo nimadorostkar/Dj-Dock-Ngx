@@ -169,3 +169,19 @@ MEDIA_URL = '/media/' # Public URL at the browser
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+
+
+
+
+
+# extra det
+# https://github.com/testdrivenio/django-on-docker
+
+
+
+
+
+
+#End
