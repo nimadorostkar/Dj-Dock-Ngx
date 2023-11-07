@@ -1,7 +1,6 @@
 # Dockerizing Django with Postgres, Gunicorn, and Nginx
 
 
-
 ## Want to use this project?
 
 ### Development
